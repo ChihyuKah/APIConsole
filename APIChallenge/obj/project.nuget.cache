@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M23PhKkzCYwLc2Amw6NPm8OqLoslmQZ0kPcHl85QyfC9Raxhf/eGajes80bnNIRyIdYFLSvHjwrUGooruGLEeA==",
+  "dgSpecHash": "pJ5F8suj5Y7FyDN0M7vrPva/PldrSqLLpKNVBL077CvZzQ1X+j9QNJOYX7KpcG1YCy5FbTPsZKKPBwL0KeBQ6g==",
   "success": true,
   "projectFilePath": "/home/chihyu/RiderProjects/APIConsole/APIChallenge/pokeConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/chihyu/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/pokeConsole
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/pokeConsole.deps.json
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/pokeConsole.runtimeconfig.json
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/pokeConsole.runtimeconfig.dev.json
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/pokeConsole.dll
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/pokeConsole.pdb
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.csprojAssemblyReference.cache
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.csproj.CoreCompileInputs.cache
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.AssemblyInfoInputs.cache
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.AssemblyInfo.cs
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.csproj.CopyComplete
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.dll
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.pdb
+/home/chihyu/RiderProjects/APIConsole/APIChallenge/obj/Debug/netcoreapp3.1/pokeConsole.genruntimeconfig.cache
